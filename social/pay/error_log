@@ -1,0 +1,204 @@
+[03-Jan-2020 11:33:56 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 8
+[03-Jan-2020 11:34:41 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 8
+[03-Jan-2020 11:35:30 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:41:42 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:55:08 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:55:08 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:55:37 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:56:49 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:56:49 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:56:49 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 11:56:49 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:02:02 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:09:28 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:11:09 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:14:11 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:14:29 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:17:22 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:23:09 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:23:15 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:23:20 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:23:53 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:23:56 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:24:18 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:28:03 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:28:06 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 12:30:48 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 13:05:11 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 13:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 17:33:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:33:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:33:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:33:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:33:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:33:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:33:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:34:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:35:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:35:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:35:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:35:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:35:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:36:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:36:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:37:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:37:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:37:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:38:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:38:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:39:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:39:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:39:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:40:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:43:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:43:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:44:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:44:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 3
+[03-Jan-2020 17:45:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 5
+[03-Jan-2020 17:45:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 5
+[03-Jan-2020 17:46:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 5
+[03-Jan-2020 17:48:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 70
+[03-Jan-2020 18:08:10 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 18:50:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 5
+[03-Jan-2020 18:55:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 5
+[03-Jan-2020 18:56:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 5
+[03-Jan-2020 18:57:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 5
+[03-Jan-2020 19:02:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 32
+[03-Jan-2020 19:03:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 32
+[03-Jan-2020 19:07:13 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:08:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:08:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:09:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:10:44 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:38 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:11:59 UTC] PHP Warning:  Use of undefined constant items - assumed 'items' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 29
+[03-Jan-2020 19:15:10 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:17:02 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:17:37 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:18:43 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 38
+[03-Jan-2020 19:36:51 UTC] PHP Notice:  Array to string conversion in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 24
+[03-Jan-2020 19:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 38
+[03-Jan-2020 19:37:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 38
+[03-Jan-2020 19:38:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 38
+[03-Jan-2020 19:39:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 38
+[03-Jan-2020 19:40:39 UTC] PHP Fatal error:  Uncaught Stripe\Error\InvalidRequest: Customer cus_GTsKha1dwYmCKl already has the maximum 25 current and scheduled subscriptions. in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php:110
+Stack trace:
+#0 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(275): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array, Array)
+#1 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#2 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(120): Stripe\ApiRequestor->request('post', '/v1/subscriptio...', Array, Array)
+#3 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(159): Stripe\ApiResource::_staticRequest('post', '/v1/subscriptio...', Array, NULL)
+#4 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/Subscription.php(53): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/wdksr63g9zmt/public_html/social/p in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php on line 110
+[03-Jan-2020 19:40:50 UTC] PHP Fatal error:  Uncaught Stripe\Error\InvalidRequest: Customer cus_GTsKha1dwYmCKl already has the maximum 25 current and scheduled subscriptions. in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php:110
+Stack trace:
+#0 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(275): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array, Array)
+#1 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#2 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(120): Stripe\ApiRequestor->request('post', '/v1/subscriptio...', Array, Array)
+#3 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(159): Stripe\ApiResource::_staticRequest('post', '/v1/subscriptio...', Array, NULL)
+#4 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/Subscription.php(53): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/wdksr63g9zmt/public_html/social/p in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php on line 110
+[03-Jan-2020 19:41:07 UTC] PHP Fatal error:  Uncaught Stripe\Error\InvalidRequest: Customer cus_GTsKha1dwYmCKl already has the maximum 25 current and scheduled subscriptions. in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php:110
+Stack trace:
+#0 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(275): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array, Array)
+#1 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#2 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(120): Stripe\ApiRequestor->request('post', '/v1/subscriptio...', Array, Array)
+#3 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(159): Stripe\ApiResource::_staticRequest('post', '/v1/subscriptio...', Array, NULL)
+#4 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/Subscription.php(53): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/wdksr63g9zmt/public_html/social/p in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php on line 110
+[03-Jan-2020 19:42:28 UTC] PHP Fatal error:  Uncaught Stripe\Error\InvalidRequest: Customer cus_GTsKha1dwYmCKl already has the maximum 25 current and scheduled subscriptions. in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php:110
+Stack trace:
+#0 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(275): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array, Array)
+#1 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#2 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(120): Stripe\ApiRequestor->request('post', '/v1/subscriptio...', Array, Array)
+#3 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(159): Stripe\ApiResource::_staticRequest('post', '/v1/subscriptio...', Array, NULL)
+#4 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/Subscription.php(53): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/wdksr63g9zmt/public_html/social/p in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php on line 110
+[03-Jan-2020 19:42:30 UTC] PHP Fatal error:  Uncaught Stripe\Error\InvalidRequest: Customer cus_GTsKha1dwYmCKl already has the maximum 25 current and scheduled subscriptions. in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php:110
+Stack trace:
+#0 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(275): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array, Array)
+#1 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#2 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(120): Stripe\ApiRequestor->request('post', '/v1/subscriptio...', Array, Array)
+#3 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(159): Stripe\ApiResource::_staticRequest('post', '/v1/subscriptio...', Array, NULL)
+#4 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/Subscription.php(53): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/wdksr63g9zmt/public_html/social/p in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php on line 110
+[03-Jan-2020 19:46:16 UTC] PHP Fatal error:  Uncaught Stripe\Error\InvalidRequest: Customer cus_GTsKha1dwYmCKl already has the maximum 25 current and scheduled subscriptions. in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php:110
+Stack trace:
+#0 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(275): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array, Array)
+#1 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#2 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(120): Stripe\ApiRequestor->request('post', '/v1/subscriptio...', Array, Array)
+#3 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiResource.php(159): Stripe\ApiResource::_staticRequest('post', '/v1/subscriptio...', Array, NULL)
+#4 /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/Subscription.php(53): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/wdksr63g9zmt/public_html/social/p in /home/wdksr63g9zmt/public_html/social/pay/stripe-php/lib/ApiRequestor.php on line 110
+[03-Jan-2020 19:50:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 38
+[03-Jan-2020 19:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 38
+[03-Jan-2020 19:54:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 40
+[03-Jan-2020 19:55:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 41
+[03-Jan-2020 19:57:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Stripe\subscritpionItem' not found in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 41
+[03-Jan-2020 19:59:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 46
+[03-Jan-2020 20:00:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 46
+[03-Jan-2020 20:01:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Stripe\Subscription::delete() in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 42
+[03-Jan-2020 20:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Stripe\Subscription::delete() in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/wdksr63g9zmt/public_html/social/pay/del_subscription.php on line 46
+[03-Jan-2020 20:32:50 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
+[03-Jan-2020 20:33:02 UTC] PHP Notice:  Undefined offset: 0 in /home/wdksr63g9zmt/public_html/social/pay/exist_customer.php on line 19
